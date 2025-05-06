@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -29,16 +27,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
+- Bootstarp
 - CSS custom properties
 - Flex
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
-I learnt and practiced implementing Figma designs using Frontend Mentor’s challenges. by building QR Code Component. I gained valuable experience in interpreting design files, writing HTML and CSS, and creating professional, polished components.
+I learnt and practiced implementing bootstrap components. I gained valuable experience in interpreting design files, writing HTML, CSS and using Bootstrap, and creating professional, polished components.
 
 
 ### Useful resources
